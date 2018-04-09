@@ -8,6 +8,7 @@
 4. git merge : fusion de branches
 5. git stash : permet le remisage
 6. git init : créer un nouveau repo local
+7. git diff : comparer des fichiers
 
 **Essais d'utilisation des différentes balises Markdown**
 
