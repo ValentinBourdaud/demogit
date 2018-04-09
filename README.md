@@ -2,14 +2,14 @@
 
 **Extrait  des lignes de commandes à retenir dans le cours**
 
-1. mkdir : permet de créer un nouveau fichier
-2. git log : affiche tous les commits de la branche courante
-3. git branch : créer une nouvelle branche
-4. git merge : fusion de branches
-5. git stash : permet le remisage
-6. git init : créer un nouveau repo local
-7. git diff : comparer des fichiers
-8. status : donne les commits
+1. `mkdir` : permet de créer un nouveau fichier
+2. `git log` : affiche tous les commits de la branche courante
+3. `git branch` : créer une nouvelle branche
+4. `git merge` : fusion de branches
+5. `git stash` : permet le remisage
+6. `git init` : créer un nouveau repo local
+7. `git diff` : comparer des fichiers
+8. `status` : donne les commits
 
 **Essais d'utilisation des différentes balises Markdown**
 
